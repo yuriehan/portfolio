@@ -1,7 +1,7 @@
 # Yurie Han — Portfolio
 # Hi! I'm Yurie 👋
 
-I'm a **software, hardware, and data enthusiast** who enjoys building interactive projects, machine learning experiments, and embedded/IoT prototypes. I've provided below some of my projects and code samples. My current focus is on **ML model prototyping** and **embedded systems**.
+I'm a **software, hardware, and data enthusiast** who enjoys building interactive projects, machine learning experiments, and embedded/IoT prototypes. My current focus is on **ML model prototyping** and **embedded systems**. 
 
 I’ve previously interned at **Samsung**, **Cisco**, and **Warner Bros. Games**, gaining experience across hardware, software, and machine learnning projects.  
 
@@ -13,12 +13,16 @@ I’ve previously interned at **Samsung**, **Cisco**, and **Warner Bros. Games**
 
 📫 Reach me at [yuriehan5@gmail.com](mailto:yuriehan5@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/yuriehan/).
 
+Check out some of my projects and code samples below!
 ---
 
 ## Projects in this repository
 
-1. **Interactive Python Game (CodeSkulptor)** — `project1-codeskulptor/`  
-   A browser-based Python game built for CodeSkulptor. See the folder for code and run instructions.
+1. **Map Search** — `mapsearch/`  | Python, Data Structures, Algorithms
+   * Implemented three graph search algorithms (BFS, DFS, A* ) to compute routes on street maps with different optimization goals
+   * Built custom Queue and Stack data structures supporting push, pop, clear, and string representation methods
+   & Compared algorithm performance on varying map sizes to evaluate efficiency and pathfinding tradeoffs.
+See the folder for code and run instructions.
 
 2. **Colab Notebook Project** — `project2-colab/`  
    Data analysis / ML experiment with notebook and report. The `.ipynb` and `report.pdf` are in the folder.
