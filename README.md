@@ -14,32 +14,29 @@ I’ve previously interned at **Samsung**, **Cisco**, and **Warner Bros. Games**
 📫 Reach me at [yuriehan5@gmail.com](mailto:yuriehan5@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/yuriehan/).
 
 Check out some of my projects and code samples below!
+(⚠️🚧 STILL UNDER CONSTRUCTION - currently editing all READMEs, but in the meantime, I have all other files uploaded and ready for view!)
 ---
 
 ## Projects in this repository
 
-1. **Map Search** — `mapsearch/`  | Python, Data Structures, Algorithms
+1. Art Car
+
+2. Autonomous RC Car
+
+3. An Analysis of the Effects of COVID-19 on the NYC Area and General Populus Jan 2023 – May 2023
+
+4. Houston Grand Opera
+
+5. Irrigiation Embedded System
+
+6. **Map Search** — `mapsearch/`  | Python, Data Structures, Algorithms
    * Implemented three graph search algorithms (BFS, DFS, A* ) to compute routes on street maps with different optimization goals
    * Built custom Queue and Stack data structures supporting push, pop, clear, and string representation methods
    & Compared algorithm performance on varying map sizes to evaluate efficiency and pathfinding tradeoffs.
 See the folder for code and run instructions.
 
-2. **Colab Notebook Project** — `project2-colab/`  
-   Data analysis / ML experiment with notebook and report. The `.ipynb` and `report.pdf` are in the folder.
+7. Speech Emotion Classification
 
-3. **Dreamhouse IoT Project (Hackster)** — `project3-dreamhouse/`  
-   Documentation and demo live on Hackster: see the project folder for the link.
-
-4. **DSCI Capstone (Confidential Code)** — `project4-group/`  
-   Final report included; source code is confidential. See project folder for details.
-
-5. An Analysis of the Effects of COVID-19 on the NYC Area and General Populus Jan 2023 – May 2023
-
-6. Speech Emotion Classification
-
-7. Art Car
-
-8. ELEC 327
 ---
 
 ## How to run things
