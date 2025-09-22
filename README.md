@@ -37,17 +37,9 @@ See the folder for code and run instructions.
 
 6. Speech Emotion Classification
 
-7. Warner Bros?
+7. Art Car
 
-8. Samsung?
-
-9. Cisco?
-
-10. Art Car
-
-11. Speech Emotion Classification
-
-12. ELEC 327?
+8. ELEC 327
 ---
 
 ## How to run things
