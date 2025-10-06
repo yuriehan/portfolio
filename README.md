@@ -1,5 +1,5 @@
 # Yurie Han — Portfolio
-# Hi! I'm Yurie 👋
+# Hi! I'm Yurie 
 
 I'm a **software, hardware, and data enthusiast** who enjoys building interactive projects, machine learning experiments, and embedded/IoT prototypes. My current focus is on **ML model prototyping** and **embedded systems**. 
 
