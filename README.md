@@ -1,13 +1,13 @@
 # Yurie Han — Portfolio
 # Hi! I'm Yurie 
 
-I'm a **software, hardware, and data enthusiast** who enjoys building interactive projects, machine learning experiments, and embedded/IoT prototypes. My current focus is on **ML model prototyping** and **embedded systems**. 
+I'm an **ML and data enthusiast** who enjoys building interactive projects, machine learning experiments, and embedded/IoT prototypes. My current focus is on **ML model prototyping** and **embedded systems**. 
 
 I’ve previously interned at **Samsung**, **Cisco**, and **Warner Bros. Games**, gaining experience across hardware, software, and machine learnning projects.  
 
 🎓 I'm an Oregon native and graduated from **Rice University** with a B.S. in Electrical & Computer Engineering (minors in Data Science and Art History). I’m now pursuing an **M.S. in Electrical & Computer Engineering** at **USC**, specializing in Machine Learning and Data Science. My graduate studies are supported by a full-tuition scholarship generously funded by Meta.  
 
-- 💻 **Languages & tools:** Python, C/C++, Rust, R, SQL, MATLAB, Verilog, JavaScript, HTML/CSS, TensorFlow, PyTorch, Spark, AWS, Linux, Git  
+- 💻 **Languages & tools:** Python, C/C++, Rust, R, SQL, MATLAB, Verilog, JavaScript, HTML/CSS, TensorFlow, PyTorch, Spark, AWS, Linux, Git, Unreal, Perforce
 - ⚡ **Outside of tech:** I enjoy film review, working out, and exploring new cafes  
 - 🌎 **Cities I've called home:** Portland → Houston → Austin → San Diego → San Francisco → Los Angeles  
 
