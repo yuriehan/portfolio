@@ -11,5 +11,5 @@ This project implements three graph search algorithms (**BFS, DFS, and A\*** ) t
 
 ### How to Run
 1. Hit the **Run** button on the left of this CodeSkulptor link:  
-   👉 https://py3.codeskulptor.org/#user310_hNGraxS53m_1.py
+    https://py3.codeskulptor.org/#user310_hNGraxS53m_1.py
 2. Or copy `main.py` into an empty [CodeSkulptor](https://py3.codeskulptor.org/) file and run.
