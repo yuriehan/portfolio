@@ -7,11 +7,11 @@ I’ve previously interned at **Samsung**, **Cisco**, and **Warner Bros. Games**
 
 🎓 I'm an Oregon native and graduated from **Rice University** with a B.S. in Electrical & Computer Engineering (minors in Data Science and Art History). I’m now pursuing an **M.S. in Electrical & Computer Engineering** at **USC**, specializing in Machine Learning and Data Science. My graduate studies are supported by a full-tuition scholarship generously funded by Meta.  
 
-- 💻 **Languages & tools:** Python, C/C++, Rust, R, SQL, MATLAB, Verilog, JavaScript, HTML/CSS, TensorFlow, PyTorch, Spark, AWS, Linux, Git, Unreal, Perforce
-- ⚡ **Outside of tech:** I enjoy film review, working out, and exploring new cafes  
-- 🌎 **Cities I've called home:** Portland → Houston → Austin → San Diego → San Francisco → Los Angeles  
+-  **Languages & tools:** Python, C/C++, Rust, R, SQL, MATLAB, Verilog, JavaScript, HTML/CSS, TensorFlow, PyTorch, Spark, AWS, Linux, Git, Unreal, Perforce
+-  **Outside of tech:** I enjoy film review, working out, and exploring new cafes  
+-  **Cities I've called home:** Portland → Houston → Austin → San Diego → San Francisco → Los Angeles  
 
-📫 Reach me at [yuriehan5@gmail.com](mailto:yuriehan5@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/yuriehan/).
+ Reach me at [yuriehan5@gmail.com](mailto:yuriehan5@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/yuriehan/).
 
 Check out some of my projects and code samples below!
 (⚠️🚧 STILL UNDER CONSTRUCTION - currently editing all READMEs, but in the meantime, I have all other files uploaded and ready for view!)
